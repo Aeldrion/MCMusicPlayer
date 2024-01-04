@@ -1,0 +1,122 @@
+{
+  "block.note_block.grand_piano_low": {
+    "sounds": [
+      "music:grand_piano_low"
+    ]
+  },
+  "block.note_block.grand_piano": {
+    "sounds": [
+      "music:grand_piano"
+    ],
+    "subtitle": "subtitles.block.note_block.note"
+  },
+  "block.note_block.grand_piano_high": {
+    "sounds": [
+      "music:grand_piano_high"
+    ],
+    "subtitle": "subtitles.block.note_block.note"
+  },
+
+
+  "block.note_block.chime": {
+      "sounds": [
+        "music:clarinet"
+      ],
+      "replace": true,
+      "subtitle": "subtitles.block.note_block.note"
+  },
+  
+  
+  "block.note_block.violin": {
+    "sounds": [
+      "music:violin"
+    ],
+    "subtitle": "subtitles.block.note_block.note"
+  },
+  "block.note_block.violin_high": {
+    "sounds": [
+      "music:violin_high"
+    ],
+    "subtitle": "subtitles.block.note_block.note"
+  },
+  
+  
+  "block.note_block.banjo_high": {
+    "sounds": [
+      "music:banjo_high"
+    ],
+    "subtitle": "subtitles.block.note_block.note"
+  },
+  "block.note_block.bass_high": {
+    "sounds": [
+      "music:bass_high"
+    ],
+    "subtitle": "subtitles.block.note_block.note"
+  },
+  "block.note_block.bell_low": {
+    "sounds": [
+      "music:bell_low"
+    ],
+    "subtitle": "subtitles.block.note_block.note"
+  },
+  "block.note_block.bell_high": {
+    "sounds": [
+      "music:bell_high"
+    ],
+    "subtitle": "subtitles.block.note_block.note"
+  },
+  "block.note_block.bit_high": {
+    "sounds": [
+      "music:bit_high"
+    ],
+    "subtitle": "subtitles.block.note_block.note"
+  },
+  "block.note_block.didgeridoo_high": {
+    "sounds": [
+      "music:didgeridoo_high"
+    ],
+    "subtitle": "subtitles.block.note_block.note"
+  },
+  "block.note_block.flute_high": {
+    "sounds": [
+      "music:flute_high"
+    ],
+    "subtitle": "subtitles.block.note_block.note"
+  },
+  "block.note_block.guitar_high": {
+    "sounds": [
+      "music:guitar_high"
+    ],
+    "subtitle": "subtitles.block.note_block.note"
+  },
+  "block.note_block.harp_high": {
+    "sounds": [
+      "music:harp_high"
+    ],
+    "subtitle": "subtitles.block.note_block.note"
+  },
+  "block.note_block.chime_high": {
+    "sounds": [
+      "music:clarinet_high"
+    ],
+    "subtitle": "subtitles.block.note_block.note"
+  },
+  "block.note_block.iron_xylophone_high": {
+    "sounds": [
+      "music:iron_xylophone_high"
+    ],
+    "subtitle": "subtitles.block.note_block.note"
+  },
+  "block.note_block.pling_high": {
+    "sounds": [
+      "music:pling_high"
+    ],
+    "subtitle": "subtitles.block.note_block.note"
+  },
+  "block.note_block.xylophone_high": {
+    "sounds": [
+      "music:xylobone_high"
+    ],
+    "subtitle": "subtitles.block.note_block.note"
+  }
+}
