@@ -15,7 +15,8 @@ execute if block ~1 ~ ~-1 minecraft:command_block run data modify block ~1 ~ ~-1
 execute as @a[tag=music.listener] at @s run teleport @s ~ ~ ~1
 execute as @e[type=minecraft:marker, tag=music.reader] at @s run function music:playback/private/read_channels
 
-# Teleport playback display forward
+# Read lyrics and teleport the playback display forward
+execute at @e[type=minecraft:item_display, tag=music.bar] at @s positioned ~ ~1 ~ run function music:playback/private/read_lyrics
 execute as @e[type=minecraft:item_display, tag=music.bar] at @s run teleport @s ~ ~ ~1
 
 # Loop again
