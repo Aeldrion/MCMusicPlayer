@@ -8,6 +8,7 @@
 # @within music:playback/summon_marker
 
 tag @s add music.reader
+tag @s add music.teleport_along
 scoreboard players operation @s music.height = height music
 scoreboard players add height music 1
-execute if score height music matches ..34 positioned ~ ~1 ~ summon minecraft:marker run function music:playback/summon_marker
+execute if score height music matches ..34 positioned ~ ~1 ~ summon minecraft:marker run function music:playback/private/summon_marker
