@@ -1,6 +1,6 @@
 #> music:playback/play_note
 #
-# Plays a single note
+# Plays a single note at the listener's position
 #
 # @input
 #   sound: any sound event
